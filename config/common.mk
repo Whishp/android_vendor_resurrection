@@ -78,8 +78,7 @@ PRODUCT_COPY_FILES += \
 # Included prebuilt apk's
 PRODUCT_PACKAGES += \
     GoogleClock \
-    Wallpapers \
-    ResurrectionStats
+    Wallpapers 
 
 # Cutout control overlays
 PRODUCT_PACKAGES += \
